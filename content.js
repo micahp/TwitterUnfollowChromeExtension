@@ -1,0 +1,1 @@
+// This file can be empty or used for additional content script logic if needed
